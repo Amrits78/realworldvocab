@@ -1,0 +1,19 @@
+
+/*This is for Home Page */
+
+
+
+.max-width-1 hr{
+       margin-bottom: 50px;
+}
+
+
+
+
+
+@media screen and (max-width:1100px) {
+       .max-width-1 hr{
+              margin-bottom: 0;
+       }
+}
+
